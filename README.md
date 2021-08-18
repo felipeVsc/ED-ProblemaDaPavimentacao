@@ -8,9 +8,7 @@
 
 *Tertuliano Gonçalves havia prometido casamento a Josefina das Graças. O evento deveria ser realizado, segundo ele, assim que acabasse o contrato de trabalho recém assinado com uma empresa encarregada de pavimentar toda a rede de estradas que ligava Santana do Caixa Prego (cidade onde morava Josefina)  às cidades da região. O trabalho iria começar em Santana e prosseguir em continuidade, estada após estrada, terminando, segundo explicou Tertuliano, na própria Santa. A rede de estradas poderia ser representada pela matriz de adjacência que se segue, na qual a cidade de Santana é representada pelo número 1.*
 
-
-
-
+![matriz](matriz.png)
 
 1. ***Você que leu esta estória acha que Tertuliano estava sendo sincero com Josefina? Por quê?***
 
